@@ -18,6 +18,13 @@ Aqui está a imagem do ESP32 utilizado no projeto:
 ![ESP32](https://clubedomaker.com/wp-content/uploads/2024/02/esp32pinout.png)
 
 ![ESP32](https://ae01.alicdn.com/kf/H8992e0d7782a430a811d31a2e2f731c6M.jpg_640x640Q90.jpg_.webp)
+
+![OLED Display](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwA-IUTIkx7Xa-TvFZfPkHFUGyIszZd30Nyg&s)
+ 
+![Sensor LDR](https://images.tcdn.com.br/img/img_prod/557243/sensor_de_luminosidade_ldr_10mm_730_1_20191128221323.png)
+
+![Sensor Ultrassônico](https://cdn.awsli.com.br/600x700/980/980586/produto/36171323/077194c18d.jpg)
+
 ## Esquema de Ligação
 
 - **Display OLED**:
