@@ -15,8 +15,9 @@ O "App de Automação com ESP32" é um projeto desenvolvido utilizando o microco
 
 Aqui está a imagem do ESP32 utilizado no projeto:
 
-![ESP32](https://www.espressif.com/sites/default/files/esp32-devkitc_v4.jpg)
+![ESP32](https://clubedomaker.com/wp-content/uploads/2024/02/esp32pinout.png)
 
+![ESP32](https://ae01.alicdn.com/kf/H8992e0d7782a430a811d31a2e2f731c6M.jpg_640x640Q90.jpg_.webp)
 ## Esquema de Ligação
 
 - **Display OLED**:
