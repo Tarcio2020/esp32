@@ -4,6 +4,10 @@
 
 O "App de Automação com ESP32" é um projeto desenvolvido utilizando o microcontrolador ESP32, com foco em automação e controle de dispositivos. O projeto utiliza um display OLED para exibir informações e sensores para medições e controle.
 
+## Esquema de Ligação
+
+![Projeto](https://servidor-estaticos-amber.vercel.app/Esquema%20ESP%2032.png)
+
 ## Componentes
 
 - **ESP32**: Microcontrolador de baixo custo e alto desempenho.
@@ -11,7 +15,6 @@ O "App de Automação com ESP32" é um projeto desenvolvido utilizando o microco
 - **Sensor Ultrassônico HC-SR04**: Para medições de distância.
 - **LEDs**: Para indicação visual das condições de medição.
 
-## Diagrama de Conexão
 
 Aqui está a imagem do ESP32 utilizado no projeto:
 
@@ -25,7 +28,8 @@ Aqui está a imagem do ESP32 utilizado no projeto:
 
 ![Sensor Ultrassônico](https://cdn.awsli.com.br/600x700/980/980586/produto/36171323/077194c18d.jpg)
 
-## Esquema de Ligação
+
+
 
 - **Display OLED**:
   - VCC -> 3.3V no ESP32
